@@ -5,7 +5,7 @@
 <img src="./github/1_main.png">
 <img src="./github/2_itens.png">
 
-<h2>Tópicos abordados durante esse projeto:<h2>
+<h2>Tópicos abordados durante esse projeto:</h2>
 <ul>
     <li>Especificação flexible box para posicionar elementos na página</li>
     <li>Propriedades do flexbox e como usá-las</li>
